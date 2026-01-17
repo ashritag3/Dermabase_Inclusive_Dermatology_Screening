@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/21f817cd2a4bb892d5d12f594bfcb5bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/548e381c08e9f22d307aa8c1cf129a80/AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/ca3dae58c8cc4bfcf81931f8bf7e1733/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/f3f0eeb1a5a199522592e0c198fbe51f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/bf7bff617113b006ad07b49337625928/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/1805228f971a3e71e332ea6d428b5191/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/e3e560b73eb4e2809d10483c3f1eebb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/7188af92a4fc5600a6010d6c17e083f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/afdadd88999856b74e1f442a6583884a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/83b1493105feae755622bffda28464fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/48528a7fe458258621114fc8b2df86df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/84a4bd50dc73979d9cbb5c406f5787f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/3114654b3d9e36bca4887404edd68990/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/8d4134e6583b880adb82621aad9f1d0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/f816793f9d58fc073500b32fa93b0f57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/39a1c5cc172b5266dd9f4656cbdc1f62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/faaaa0a4e0ff2499d09a16fed3b085aa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/159d69e3d134c469b1f5ebe81c87398c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/cf830fefae51f3605e68c49c21bcf69a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/b9584416968090a8d2138b4b77111e17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/42ef37a4f4b55fe77c795309b62fb4d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/3728bb004aac71bbdfd2317b96b77e2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/c5783effe0b2c5d34a4da704b1d0cb5d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/34d51ed02a17b4eebc0ce79ada4b4afe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/de1e3313a6be53839af0b24f4eff23c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/5c5657856d5980f955c12a36b21932f0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/06b33d29843ddda05967d4658b10e4c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/e655c747768e3d0f1e388d790ee634fa/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:4:11-43
+		INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:3:11-67
+	android:versionCode
+		INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:6:5-39
+	dist:instant
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:6:18-37
+application
+ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/548e381c08e9f22d307aa8c1cf129a80/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/548e381c08e9f22d307aa8c1cf129a80/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/ca3dae58c8cc4bfcf81931f8bf7e1733/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/ca3dae58c8cc4bfcf81931f8bf7e1733/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/faaaa0a4e0ff2499d09a16fed3b085aa/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/faaaa0a4e0ff2499d09a16fed3b085aa/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/159d69e3d134c469b1f5ebe81c87398c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/159d69e3d134c469b1f5ebe81c87398c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/faaaa0a4e0ff2499d09a16fed3b085aa/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:11:13-45
+	android:roundIcon
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:12:13-58
+	android:icon
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:10:13-47
+	android:allowBackup
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:14:13-44
+activity#buffml.com.smartdoctor.MainActivity
+ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/21f817cd2a4bb892d5d12f594bfcb5bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/21f817cd2a4bb892d5d12f594bfcb5bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/548e381c08e9f22d307aa8c1cf129a80/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/548e381c08e9f22d307aa8c1cf129a80/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/ca3dae58c8cc4bfcf81931f8bf7e1733/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/ca3dae58c8cc4bfcf81931f8bf7e1733/AndroidManifest.xml:5:5-6:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/f3f0eeb1a5a199522592e0c198fbe51f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/f3f0eeb1a5a199522592e0c198fbe51f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/bf7bff617113b006ad07b49337625928/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/bf7bff617113b006ad07b49337625928/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/1805228f971a3e71e332ea6d428b5191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/1805228f971a3e71e332ea6d428b5191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/e3e560b73eb4e2809d10483c3f1eebb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/e3e560b73eb4e2809d10483c3f1eebb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/7188af92a4fc5600a6010d6c17e083f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/7188af92a4fc5600a6010d6c17e083f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/afdadd88999856b74e1f442a6583884a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/afdadd88999856b74e1f442a6583884a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/83b1493105feae755622bffda28464fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/83b1493105feae755622bffda28464fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/48528a7fe458258621114fc8b2df86df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/48528a7fe458258621114fc8b2df86df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/84a4bd50dc73979d9cbb5c406f5787f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/84a4bd50dc73979d9cbb5c406f5787f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/3114654b3d9e36bca4887404edd68990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/3114654b3d9e36bca4887404edd68990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/8d4134e6583b880adb82621aad9f1d0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/8d4134e6583b880adb82621aad9f1d0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/f816793f9d58fc073500b32fa93b0f57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/f816793f9d58fc073500b32fa93b0f57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/39a1c5cc172b5266dd9f4656cbdc1f62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/39a1c5cc172b5266dd9f4656cbdc1f62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/faaaa0a4e0ff2499d09a16fed3b085aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/faaaa0a4e0ff2499d09a16fed3b085aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/159d69e3d134c469b1f5ebe81c87398c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/159d69e3d134c469b1f5ebe81c87398c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/cf830fefae51f3605e68c49c21bcf69a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/cf830fefae51f3605e68c49c21bcf69a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/b9584416968090a8d2138b4b77111e17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/b9584416968090a8d2138b4b77111e17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/42ef37a4f4b55fe77c795309b62fb4d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/42ef37a4f4b55fe77c795309b62fb4d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/3728bb004aac71bbdfd2317b96b77e2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/3728bb004aac71bbdfd2317b96b77e2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/c5783effe0b2c5d34a4da704b1d0cb5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/c5783effe0b2c5d34a4da704b1d0cb5d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/34d51ed02a17b4eebc0ce79ada4b4afe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/34d51ed02a17b4eebc0ce79ada4b4afe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/de1e3313a6be53839af0b24f4eff23c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/de1e3313a6be53839af0b24f4eff23c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/5c5657856d5980f955c12a36b21932f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/5c5657856d5980f955c12a36b21932f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/06b33d29843ddda05967d4658b10e4c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/06b33d29843ddda05967d4658b10e4c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/e655c747768e3d0f1e388d790ee634fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/tejavikumar/.gradle/caches/transforms-2/files-2.1/e655c747768e3d0f1e388d790ee634fa/AndroidManifest.xml:20:5-44
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+		MERGED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tejavikumar/Downloads/Android-App-Skin-Cancer-Detector/Testing/SmartDoctor/app/src/main/AndroidManifest.xml
